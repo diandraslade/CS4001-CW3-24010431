@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+                      STAFF RECRUITMENT SYSTEM
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Staff Recruitment System
+PURPOSE OF PROJECT: To manage the hiring recruitment process for full-time, and part-time staff
+VERSION or DATE: 1.0
+AUTHORS: Diandra Ungureanu - 24010431
+DEVELOPED FOR: BlueJ
+DATE SUBMITTED: April 2025
